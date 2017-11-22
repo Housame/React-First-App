@@ -1,0 +1,7 @@
+.description-area{
+    overflow-y: scroll;
+    height: 5em;
+}
+.food-container{
+    height:60%;
+}

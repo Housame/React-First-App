@@ -1,0 +1,55 @@
+{
+    "vego":[
+            {
+                "name": "Vego TACOPAJ",
+                "price":95,
+                "description":"Godaste taco paj med massa grönskar",
+                "imgUrl":"https://img.koket.se/media/galen-i-paj.jpg"
+            },
+            {
+                "name":"QUORNFILÉ MED DRAGONSVÄNGD POTATIS",
+                "price":105,
+                "description":"Quorn är vegetariskt och gjort av svampprotein. Det används ofta som ersättning eller variation till kött. Servera quornfilén med den jättegoda potatisen. Mums!",
+                "imgUrl":"https://cdn.rdb.arla.com/Files/arla-se/856543114/160ffd50-47bd-4c99-b3bf-51f1a457d872.jpg?mode=crop&w=1680&h=750&scale=both&ak=c9454149&hm=69d28bce"
+            },
+            {
+                "name":"FALAFEL- OCH BLOMKÅLSPIZZA",
+                "price":105,
+                "description":"Festa loss på en riktigt smakrik vegetarisk pizza med len blomkålskräm istället för tomatsås.",
+                "imgUrl":"https://cdn.rdb.arla.com/Files/arla-se/1082839505/8245c193-d29f-449e-b68c-120218548c39.jpg?mode=crop&w=1680&h=750&scale=both&ak=c9454149&hm=69d28bce"   
+            },
+            {
+                "name":"PASTA MED BÖNOR OCH SOLTORKADE TOMATER",
+                "price":115,
+                "description":"Slipp onödig disk och få en extra krämig pastarätt genom att laga pastan och såsen i en och samma gryta. Pastan får protein från bönor och extra smak av soltorkade tomater och nyrivet citronskal.",
+                "imgUrl":"https://cdn.rdb.arla.com/Files/arla-se/3176465163/26ab5555-de6b-4656-b16c-92413094ee29.jpg?mode=crop&w=1680&h=750&scale=both&ak=c9454149&hm=69d28bce"   
+            }
+        ],
+    "meat":[
+            {
+                "name":"LAX MED INGEFÄRA OCH LJUMMEN BULGURSALLAD",
+                "price":95,
+                "description":"Lax som gnids in med en rub, en form av torr marinad, bestående av ingefära, kanel, koriander och farinsocker. Den ger extra god och spännande smak på laxen.",
+                "imgUrl":"https://cdn.rdb.arla.com/Files/arla-se/462488040/2bd36599-2dca-424c-ab6e-d2df8639c320.jpg?mode=crop&w=1680&h=750&scale=both&ak=c9454149&hm=69d28bce"
+            },
+            {
+                "name":"COUSCOUS MED KYCKLING",
+                "price":105,
+                "description":"Mild couscous med kyckling och melon serverad med en underbart god sås smaksatt med ingefära och rosmarin. Bjud till lunch eller som del av en buffé.",
+                "imgUrl":"https://cdn.rdb.arla.com/Files/arla-se/1308904662/5e699aaa-2669-49bc-ac70-51b1afc0ae9a.jpg?crop=(0,304,0,-125)&w=1680&h=750&scale=both&ak=c9454149&hm=9d2241fe"
+            },
+            {
+                "name":"PIZZA FRUTTI DI MARE",
+                "price":105,
+                "description":"Fina skaldjur och en skvätt grädde ger lyx åt pizzan.",
+                "imgUrl":"https://cdn.rdb.arla.com/Files/arla-se/3124031497/86e85740-02da-47d8-8dd6-32c6d6c58765.jpg?mode=crop&w=1680&h=750&scale=both&ak=c9454149&hm=69d28bce"   
+            },
+            {
+                "name":"PAELLA",
+                "price":115,
+                "description":"Spansk paella - färgstark och festlig - med saffran, räkor och avorioris. Tillaga och servera den gärna i en stor wok.",
+                "imgUrl":"https://cdn.rdb.arla.com/Files/arla-se/2132495324/c202aee6-b94f-4579-a1d3-de0c9a7629cb.jpg?crop=(0,199,0,-230)&w=1680&h=750&scale=both&ak=c9454149&hm=5f9005b2"   
+            }
+        ]
+
+}
